@@ -1,0 +1,33 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=WEBRTC+CAN+Realtime+Transmission;Low+Latency+Automotive+Telemetry;CAN+Bus+%2B+WebRTC+Stream" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Latency-Ultra--Low-brightgreen?style=for-the-badge&logo=speedtest" alt="Latency"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Protocol-WebRTC%20%2B%20CAN-blue?style=for-the-badge&logo=webrtc" alt="Protocol"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Status-Realtime%20Active-orange?style=for-the-badge&logo=statuspage" alt="Status"></a>
+</p>
+
+---
+
+## ⚡ Overview
+**WEBRTC CAN Realtime Transmission** enables high-speed, sub-millisecond latency telemetry streaming from **Controller Area Network (CAN)** bus systems directly to web browsers using **WebRTC DataChannels & MediaStreams**.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Animated Data Stream" />
+</p>
+
+## ✨ Key Features
+- 🚀 **Real-time Streaming:** Low latency CAN frame transmission via WebRTC Peer Connections.
+- 📡 **Bi-directional Control:** Send and receive CAN signals instantly.
+- 📊 **Live Telemetry Visualization:** Animated charts and HUDs for vehicle/robotics data.
+- 🔒 **Secure Peer-to-Peer:** Encrypted DTLS/SRTP communication direct to the dashboard.
+
+## 🛠️ Architecture
+
+```
+[ CAN Bus ] ---> [ Edge Gateway ] ---> [ WebRTC DataChannel ] ---> [ Web Dashboard ]
+```
+
+---
+<p align="center"><sub>Built with ❤️ for High-Performance Automotive & Robotics Applications</sub></p>
